@@ -39,3 +39,12 @@ The application relies on the standard Java libraries and does not require any e
 
 
 ![Gzip_compression_htaccess](https://github.com/mavi207/Compressor_Decompressor/assets/136497987/aa72a881-76de-4e91-9a67-d440a79cdb4f)
+
+
+Home Tab:-
+
+
+
+
+![Screenshot 2023-08-07 181734](https://github.com/mavi207/Compressor_Decompressor/assets/136497987/0732dea4-64a7-4d71-a8b0-140400dc8831)
+
