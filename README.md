@@ -48,3 +48,28 @@ Home Tab:-
 
 ![Screenshot 2023-08-07 181734](https://github.com/mavi207/Compressor_Decompressor/assets/136497987/0732dea4-64a7-4d71-a8b0-140400dc8831)
 
+
+
+
+File Selection Window for Compression & Decompression:-
+
+
+
+![Screenshot 2023-08-07 181854](https://github.com/mavi207/Compressor_Decompressor/assets/136497987/c848cb0c-c68a-40f3-9522-37391bddf787)
+
+
+Compressed file by Gzip:-
+
+
+
+![Screenshot 2023-08-07 182010](https://github.com/mavi207/Compressor_Decompressor/assets/136497987/966081ea-74d9-4a38-a376-e75e8ceb84ed)
+
+
+
+
+
+Decompressed file by Gzip:-
+
+
+
+![Screenshot 2023-08-07 182415](https://github.com/mavi207/Compressor_Decompressor/assets/136497987/c31b6c73-d41f-440a-bd07-868b2f5f3701)
