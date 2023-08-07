@@ -11,7 +11,6 @@ This is a Java application that provides functionality for compressing and decom
 2. Import the project into your Java IDE (e.g., Eclipse, IntelliJ) or compile the Java files using the command line.
 3. Run the `main` class located in the `GUI` package to launch the application.
 
-**Usage**![Gzip_compression_htaccess](https://github.com/mavi207/Compressor_Decompressor/assets/136497987/20da7195-83dc-4911-818b-b18547bb4cc4)
 
 1. Upon launching the application, you will see a window with two buttons: "Select Your file to Compress" and "Select Your file to Decompress."
 2. Click the "Select Your file to Compress" button to choose a file you want to compress using GZIP compression. A file chooser dialog will appear, allowing you to navigate to the file you wish to compress.
@@ -28,3 +27,13 @@ Contributions to the project are welcome. If you find any bugs or have suggestio
 
 **License**
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+
+
+
+
+
+
+**Usage**![Gzip_compression_htaccess](https://github.com/mavi207/Compressor_Decompressor/assets/136497987/20da7195-83dc-4911-818b-b18547bb4cc4)
+
